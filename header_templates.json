@@ -1,0 +1,24 @@
+{
+  "templates": [
+    {
+      "name": "GASTRANS_technical_report",
+      "header_labels": [
+        "Investitor / Заказчик:",
+        "Deonica:",
+        "Секция:",
+        "Lokacija: Srbija",
+        "Локация: Сербия",
+        "Objekat:",
+        "Oбъект:",
+        "Projekat / Проект:",
+        "Broj dokumenta / Номер документа:",
+        "Naziv dokumenta: Izveštaj o tehničkom",
+        "Имя документа: Отчет о техническом",
+        "Rev.:",
+        "Рев.:",
+        "Str.:",
+        "Стр.:"
+      ]
+    }
+  ]
+}
