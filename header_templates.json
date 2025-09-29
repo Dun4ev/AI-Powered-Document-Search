@@ -1,7 +1,7 @@
 {
   "templates": [
     {
-      "name": "GASTRANS_technical_report",
+      "name": "G_technical_report",
       "header_labels": [
         "Investitor / Заказчик:",
         "Deonica:",
